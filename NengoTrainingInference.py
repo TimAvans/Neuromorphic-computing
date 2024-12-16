@@ -2,6 +2,7 @@
 I want to try supervised learning since the hand tuned params and functions did not seem to want to work
 Multiple matrices for training
 '''
+
 import nengo
 import numpy as np
 import matplotlib.pyplot as plt
